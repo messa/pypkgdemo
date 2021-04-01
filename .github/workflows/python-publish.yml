@@ -37,4 +37,5 @@ jobs:
     #  uses: pypa/gh-action-pypi-publish@master
     #  with:
     #    user: __token__
-    #    password: ${{ secrets.pypi_password }}        
+    #    password: ${{ secrets.pypi_password }}
+    # Docs: https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
